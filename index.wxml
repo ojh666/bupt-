@@ -1,0 +1,44 @@
+<view class="container">
+<text class="headline"></text>
+<swiper circular="true" autoplay="1" interval="1000">
+  <swiper-item>
+    <image class="wc" src="../../images/wc.png" ></image>
+  </swiper-item>
+  <swiper-item>
+    <image class="wc1" src="../../images/wc1.png"></image>
+  </swiper-item>
+</swiper>
+<view class="title">第一层</view>
+<view class="kengwei1">
+<view class="a1">一号坑</view>
+<icon size="40" class="wc3" wx:if="{{b}}" type="success"/>
+<icon size="40" class="wc3" wx:else type="warn"/>
+<button class="reset" bindlongtap="change">厕所清理完毕</button>
+</view>
+
+<view class="kengwei2">
+<view class="a2">二号坑</view>
+<icon size="40" class="wc4" type="success"/>
+<button class="reset1" >厕所清理完毕</button>
+</view>
+
+<view class="kengwei3">
+<view class="a3">三号坑</view>
+<icon size="40" class="wc5" type="success"/>
+<button class="reset2" >厕所清理完毕</button>
+</view>
+
+<view class="kengwei4">
+<view class="a4">四号坑</view>
+<icon size="40" class="wc6" type="success"/>
+<button class="reset3" >厕所清理完毕</button>
+</view>
+
+<view class="kengwei5">
+<view class="a5">五号坑</view>
+<icon size="40" class="wc7" type="success"/>
+<button class="reset4" >厕所清理完毕</button>
+</view>
+
+<button size="20" class="next" catchtap="next">下一层</button>
+</view>

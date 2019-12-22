@@ -1,0 +1,161 @@
+page{
+  background-color:#ecc08b;
+}
+.container{
+  display: flex;
+  flex-direction: colunmn;
+  align-items:center;
+  margin-top: 100rpx;
+}
+.headline{
+  margin-top:0px;
+ 
+
+}
+.title{
+  margin-top: 50rpx;
+  color: rgba(9, 135, 238, 0.596);
+}
+.wc{
+  width: 100rpx;
+  height: 100rpx; 
+}
+.wc1{
+  width: 100rpx;
+  height: 100rpx; 
+}
+swiper{
+  width: 100rpx;
+  height:100rpx;
+}
+
+/*一号坑*/
+
+
+.kengwei1{
+  margin: 0rpx 0 0rpx 0rpx;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.a1{
+  margin-right: 70rpx;
+  margin-top: 70rpx;
+}
+.reset{
+  margin-left: 100rpx;
+  margin-top:70rpx;
+  background-color:  rgba(27, 61, 212, 0.808);
+  opacity: ;
+  color: #fff;
+  }
+  .wc3{
+  margin-right:100rpx;
+  margin-top: 70rpx;
+  
+}
+
+
+.kengwei2{
+  margin: 0rpx 0 0rpx 0rpx;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.a2{
+  margin-right: 70rpx;
+  margin-top: 70rpx;
+}
+.reset1{
+  margin-left: 100rpx;
+  margin-top:70rpx;
+  background-color:  rgba(27, 61, 212, 0.808);
+  opacity: ;
+  color: #fff;
+  }
+  .wc4{
+  margin-right:100rpx;
+  margin-top: 70rpx;
+  
+}
+
+
+.kengwei3{
+  margin: 0rpx 0 0rpx 0rpx;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.a3{
+  margin-right: 70rpx;
+  margin-top: 70rpx;
+}
+.reset2{
+  margin-left: 100rpx;
+  margin-top:70rpx;
+  background-color: rgba(27, 61, 212, 0.808);
+  opacity: ;
+  color: #fff;
+  }
+  .wc5{
+  margin-right:100rpx;
+  margin-top: 70rpx;
+  
+}
+
+
+.kengwei4{
+  margin: 0rpx 0 0rpx 0rpx;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.a4{
+  margin-right: 70rpx;
+  margin-top: 70rpx;
+}
+.reset3{
+  margin-left: 100rpx;
+  margin-top:70rpx;
+  background-color: rgba(27, 61, 212, 0.808);
+  opacity: ;
+  color: #fff;
+  }
+  .wc6{
+  margin-right:100rpx;
+  margin-top: 70rpx;
+  
+}
+
+
+
+.kengwei5{
+  margin: 0rpx 0 0rpx 0rpx;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.a5{
+  margin-right: 70rpx;
+  margin-top: 70rpx;
+}
+.reset4{
+  margin-left: 100rpx;
+  margin-top:70rpx;
+  background-color: rgba(27, 61, 212, 0.808);
+  opacity: ;
+  color: #fff;
+  }
+  .wc7{
+  margin-right:100rpx;
+  margin-top: 70rpx;
+  
+}
+
+.next{
+  margin-top: 100rpx;
+  width: 10rpx;
+  height: 10rpx;
+  background-color: rgba(179, 15, 15, 0.705);
+  color: gray
+}
